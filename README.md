@@ -6,7 +6,7 @@
 - 📫 You can reach me by me email: paulomartinsat@gmail.com or by Linkedin : https://www.linkedin.com/in/paulo-martins-414029213/ 
 <div style="display: inline_flex"><br>
   <img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api?username=paulomartinsat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="500em" margin-right="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomartinsat&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" width="430em" margin-right="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomartinsat&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
