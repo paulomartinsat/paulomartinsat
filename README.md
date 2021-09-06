@@ -5,8 +5,8 @@
 - 📜 I have an Certified Certificate by MIT on Introduce on Computer Science Using Python, Certificate on Course of Ruby on Rails by Jackson Pires and Certificate of AWS Course by Udemy;
 - 📫 You can reach me by me email: paulomartinsat@gmail.com or by Linkedin : https://www.linkedin.com/in/paulo-martins-414029213/ 
 <div style="display: inline_block"><br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulomartinsat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomartinsat&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=paulomartinsat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomartinsat&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
