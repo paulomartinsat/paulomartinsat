@@ -4,10 +4,6 @@
 - 💻 I'm currently working on projects on Ruby on Rails, Python with Django and doing some studies in C, C++, but especially on Ruby;
 - 📜 I have an Verified Certificate by MIT on Introduce on Computer Science Using Python, Certificate on Course of Ruby on Rails by Jackson Pires and Certificate of AWS Course by Udemy;
 - 📫 You can reach me by me email: paulomartinsat@gmail.com or by Linkedin : https://www.linkedin.com/in/paulo-martins-414029213/ 
-<div style="display: inline_flex"><br>
-  <img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api?username=paulomartinsat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="430em" margin-right="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomartinsat&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
