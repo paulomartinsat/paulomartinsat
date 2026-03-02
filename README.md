@@ -11,7 +11,6 @@
   <img align="center" alt="paulo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="paulo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="paulo-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="paulo-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 <div style="margin-top:20px;">
